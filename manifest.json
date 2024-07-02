@@ -1,0 +1,11 @@
+{
+    "name": "PWA-TP2-DWM3AP",
+    "short_name": "PWA-TP2",
+    "theme-color": "#0000",
+    "background-color": "#ffff",
+    "display": "minimal-ui",
+    "orientation": "portrait",
+    "id": "/index.html",
+    "start_url": "/index.html",
+    "description": "Aplicación que cumple la función de buscar productos a través de una API proveniente de 'DummyJSON'."
+}
